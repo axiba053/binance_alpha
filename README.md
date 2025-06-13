@@ -1,6 +1,8 @@
 # 币安Alpha
 
 ## 最新活动通知：**https://bian.sqdxw.top/**
+  - 赞赏有机会获赠：**邮件主动推送服务**
+  - 币安账号：**翻倍改名**
 
 ## Alpha交易积分查询：
   - https://www.bn-alpha.site/

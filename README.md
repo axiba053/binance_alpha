@@ -8,6 +8,11 @@
   - https://www.bn-alpha.site/
   - https://blockai.pro/alpha-tool
   - https://new.alphabot.cm/
+
+## Alpha刷分人数查询：
+  - https://tonvox.com/
+
+    
 ---
 
 # 2025年币安App注册全流程指南（iOS/安卓）

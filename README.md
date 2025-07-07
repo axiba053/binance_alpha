@@ -14,7 +14,7 @@
 ## Alpha刷分人数查询：
   - https://tonvox.com/
 
-## TGE详情查询
+## TGE打新查询
   - https://bn-ido.vercel.app/
     
 ---

@@ -4,7 +4,7 @@
   - 赞赏有机会获赠：**邮件主动推送服务**（针对突袭空投，1分钟内通知）
   - 币安账号：**币圈佬狗**
   - 赞赏码
-<img src="qr.png" width="50%" alt="赞赏码">
+<img src="zs.png" width="50%" alt="赞赏码">
 
 ## Alpha交易积分查询：
   - https://www.bn-alpha.site/

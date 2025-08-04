@@ -6,7 +6,10 @@
   - 赞赏码
 <img src="zs.png" width="50%" alt="赞赏码">
 
-## Alpha交易积分查询：
+## 交易竞赛查询：
+  - https://bian.sqdxw.top/trade
+
+## 钱包Alpha交易积分查询：
   - https://www.bn-alpha.site/
   - https://blockai.pro/alpha-tool
   - https://new.alphabot.cm/

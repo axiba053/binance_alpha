@@ -1,21 +1,28 @@
 # 币安Alpha/TGE空投活动预告｜邮件推送｜官方活动通知｜alpha交易竞赛
 
-- 地址：**https://bian.sqdxw.top/**
+## 地址：**https://bian.sqdxw.top/**
 
 ## 1. Alpha/TGE空投活动预告
+可以查看空投预告及历史空投信息。
 
 <img src="img/airdrops.png" width="50%" alt="空投预告">
 
 ## 2. Alpha/TGE空投活动邮件推送（付费，费用见第5条）
+**双重通知，空投不错过！**
+
+币安官方发布空投信息后，自动发送邮件通知；并且会在空投发放前3分钟再次邮件通知。
+
 <img src="img/first.jpg" width="30%" alt="第一次提醒">
 
 <img src="img/3min.jpg" width="30%" alt="倒计时3分钟提醒">
 
 ## 3. 官方活动通知
+币安华语所有活动通知均可以在这里查看。
 
 <img src="img/news.png" width="50%" alt="最新通知">
 
 ## 4. 交易竞赛查询
+查询alpha交易竞赛代币信息、活动时间及实时奖励价值等信息。
 
 <img src="img/trading.png" width="50%" alt="交易竞赛">
 
@@ -23,6 +30,7 @@
 ## 5. 邮件推送付费服务
 
 #### 费用
+根据周期，有如下4档套餐可选：  
 - 3u/月
 - 5u/2月
 - 12u/6月
@@ -30,14 +38,15 @@
 
 #### 付费方式
 
-币安App扫码支付（备注有效邮箱地址）
+选定套餐后，用币安App扫码支付对应金额（备注有效邮箱地址）。
 
+<img src="img/bian.png" width="30%" alt="币安收款码">
 
 #### 咨询
 
-扫码添加微信好友（一定要说明来意！）
+如有需要，可扫码添加微信好友（一定要说明来意！）
 
-
+<img src="img/omg.png" width="30%" alt="omg">
 
 ---
 

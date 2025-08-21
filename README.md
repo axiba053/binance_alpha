@@ -1,25 +1,61 @@
-# 币安Alpha
+# 币安Alpha/TGE空投活动预告｜邮件推送｜官方活动通知｜alpha交易竞赛
 
-## 最新活动通知：**https://bian.sqdxw.top/**
-  - 赞赏赠送：**邮件主动推送服务**
-  - 币安账号：**币圈佬狗**
-  - 赞赏码（新）
-<img src="zs.png" width="50%" alt="赞赏码">
+- 地址：**https://bian.sqdxw.top/**
 
-## 交易竞赛查询：
-  - https://bian.sqdxw.top/trade
+## 1. Alpha/TGE空投活动预告
 
-## 钱包Alpha交易积分查询：
+<img src="img/airdrops.png" width="50%" alt="空投预告">
+
+## 2. Alpha/TGE空投活动邮件推送（付费，费用见第5条）
+<img src="img/first.jpg" width="30%" alt="第一次提醒">
+
+<img src="img/3min.jpg" width="30%" alt="倒计时3分钟提醒">
+
+## 3. 官方活动通知
+
+<img src="img/news.png" width="50%" alt="最新通知">
+
+## 4. 交易竞赛查询
+
+<img src="img/trading.png" width="50%" alt="交易竞赛">
+
+
+## 5. 邮件推送付费服务
+
+#### 费用
+- 3u/月
+- 5u/2月
+- 12u/6月
+- 20u/12月
+
+#### 付费方式
+
+币安App扫码支付（备注有效邮箱地址）
+
+
+#### 咨询
+
+扫码添加微信好友（一定要说明来意！）
+
+
+
+---
+
+## 其他工具
+
+#### 1.钱包Alpha交易积分查询：
   - https://www.bn-alpha.site/
   - https://blockai.pro/alpha-tool
   - https://new.alphabot.cm/
 
-## Alpha刷分人数查询：
+#### 2.Alpha刷分人数查询：
   - https://tonvox.com/
 
-## TGE打新查询
+#### 3.TGE打新查询
   - https://bn-ido.vercel.app/
-    
+
+#### 4.TGE预授权
+  - https://wallet.ritmex.one/   
 ---
 
 # 2025年币安App注册全流程指南（iOS/安卓）

@@ -1,3 +1,5 @@
+
+
 # 币安Alpha/TGE空投预告｜邮件推送｜官方活动通知｜alpha交易竞赛
 
 ## 地址：**https://bian.sqdxw.top/**
@@ -7,7 +9,7 @@
 
 <img src="img/airdrops.png" width="50%" alt="空投预告">
 
-## 2. Alpha/TGE空投活动邮件推送（付费，见第5条）
+## 2. Alpha/TGE空投活动邮件推送
 **双重通知，空投不错过！**
 
 币安官方发布空投信息后，自动发送邮件通知；并且会在空投发放前3分钟再次邮件通知。
@@ -25,7 +27,3 @@
 查询alpha交易竞赛代币信息、活动时间及实时奖励价值等信息。
 
 <img src="img/trading.png" width="50%" alt="交易竞赛">
-
-
-
-
